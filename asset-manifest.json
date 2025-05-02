@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vehicle-violation-pwa/static/css/main.e6c13ad2.css",
+    "main.js": "/vehicle-violation-pwa/static/js/main.22120dbf.js",
+    "static/js/488.fd236911.chunk.js": "/vehicle-violation-pwa/static/js/488.fd236911.chunk.js",
+    "service-worker.js": "/vehicle-violation-pwa/service-worker.js",
+    "index.html": "/vehicle-violation-pwa/index.html",
+    "main.e6c13ad2.css.map": "/vehicle-violation-pwa/static/css/main.e6c13ad2.css.map",
+    "main.22120dbf.js.map": "/vehicle-violation-pwa/static/js/main.22120dbf.js.map",
+    "488.fd236911.chunk.js.map": "/vehicle-violation-pwa/static/js/488.fd236911.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.22120dbf.js"
+  ]
+}
